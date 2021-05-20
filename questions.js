@@ -21,7 +21,7 @@ const quiz = [
         answer: 0
     },
     {
-        q:"The judge ___ the teenager until she ___ to the evedence.",
+        q:"The judge ___ the teenager until she ___ to the evidence.",
         options:["wasn't sentenced / listened", "didn't sentence / had listened", "hadn't sentenced / was listened"],
         answer: 1
     },
